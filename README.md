@@ -1,2 +1,2 @@
-# hongil_meal
-hongil_meal_info
+# 목홍일고등학교 급식 안내도우미
+##사용법
