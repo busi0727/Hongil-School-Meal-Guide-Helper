@@ -30,7 +30,7 @@ def check_meal(time, date):
             print()
             print('급식 자료가 존재하지 않습니다.')
 print('---------------Made by busi---------------')
-print('목포홍일고등학교 급식식단 알림도우미입니다.')
+print('목포홍일고등학교 급식 안내 도우미입니다.')
 print('깃허브에서 도움말을 읽고 사용해주시길 바랍니다.')
 print()
 warnings.filterwarnings(action='ignore')
